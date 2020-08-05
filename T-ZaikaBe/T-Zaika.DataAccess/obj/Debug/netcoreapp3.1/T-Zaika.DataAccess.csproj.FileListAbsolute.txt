@@ -1,0 +1,15 @@
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.DataAccess\bin\Debug\netcoreapp3.1\T-Zaika.DataAccess.deps.json
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.DataAccess\bin\Debug\netcoreapp3.1\T-Zaika.DataAccess.runtimeconfig.json
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.DataAccess\bin\Debug\netcoreapp3.1\T-Zaika.DataAccess.runtimeconfig.dev.json
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.DataAccess\bin\Debug\netcoreapp3.1\T-Zaika.DataAccess.dll
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.DataAccess\bin\Debug\netcoreapp3.1\T-Zaika.DataAccess.pdb
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.DataAccess\bin\Debug\netcoreapp3.1\T-Zaika.Domain.dll
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.DataAccess\bin\Debug\netcoreapp3.1\T-Zaika.Domain.pdb
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.DataAccess\obj\Debug\netcoreapp3.1\T-Zaika.DataAccess.csprojAssemblyReference.cache
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.DataAccess\obj\Debug\netcoreapp3.1\T-Zaika.DataAccess.AssemblyInfoInputs.cache
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.DataAccess\obj\Debug\netcoreapp3.1\T-Zaika.DataAccess.AssemblyInfo.cs
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.DataAccess\obj\Debug\netcoreapp3.1\T-Zaika.DataAccess.csproj.CoreCompileInputs.cache
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.DataAccess\obj\Debug\netcoreapp3.1\T-Zaika.DataAccess.csproj.CopyComplete
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.DataAccess\obj\Debug\netcoreapp3.1\T-Zaika.DataAccess.dll
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.DataAccess\obj\Debug\netcoreapp3.1\T-Zaika.DataAccess.pdb
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.DataAccess\obj\Debug\netcoreapp3.1\T-Zaika.DataAccess.genruntimeconfig.cache

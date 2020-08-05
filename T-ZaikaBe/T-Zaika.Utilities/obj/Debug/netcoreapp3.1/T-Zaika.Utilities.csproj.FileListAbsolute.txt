@@ -1,0 +1,9 @@
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Utilities\bin\Debug\netcoreapp3.1\T-Zaika.Utilities.deps.json
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Utilities\bin\Debug\netcoreapp3.1\T-Zaika.Utilities.dll
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Utilities\bin\Debug\netcoreapp3.1\T-Zaika.Utilities.pdb
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Utilities\obj\Debug\netcoreapp3.1\T-Zaika.Utilities.csprojAssemblyReference.cache
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Utilities\obj\Debug\netcoreapp3.1\T-Zaika.Utilities.AssemblyInfoInputs.cache
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Utilities\obj\Debug\netcoreapp3.1\T-Zaika.Utilities.AssemblyInfo.cs
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Utilities\obj\Debug\netcoreapp3.1\T-Zaika.Utilities.csproj.CoreCompileInputs.cache
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Utilities\obj\Debug\netcoreapp3.1\T-Zaika.Utilities.dll
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Utilities\obj\Debug\netcoreapp3.1\T-Zaika.Utilities.pdb

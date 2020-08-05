@@ -1,0 +1,8 @@
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Domain\bin\Debug\netcoreapp3.1\T-Zaika.Domain.deps.json
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Domain\bin\Debug\netcoreapp3.1\T-Zaika.Domain.dll
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Domain\bin\Debug\netcoreapp3.1\T-Zaika.Domain.pdb
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Domain\obj\Debug\netcoreapp3.1\T-Zaika.Domain.csprojAssemblyReference.cache
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Domain\obj\Debug\netcoreapp3.1\T-Zaika.Domain.AssemblyInfoInputs.cache
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Domain\obj\Debug\netcoreapp3.1\T-Zaika.Domain.AssemblyInfo.cs
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Domain\obj\Debug\netcoreapp3.1\T-Zaika.Domain.dll
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Domain\obj\Debug\netcoreapp3.1\T-Zaika.Domain.pdb

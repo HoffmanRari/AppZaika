@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\AppNetDev\\T-ZaikaBe\\T-ZaikaBe\\T-Zaika.Business\\T-Zaika.Business.csproj": {}
+  },
+  "projects": {
+    "E:\\AppNetDev\\T-ZaikaBe\\T-ZaikaBe\\T-Zaika.Business\\T-Zaika.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\AppNetDev\\T-ZaikaBe\\T-ZaikaBe\\T-Zaika.Business\\T-Zaika.Business.csproj",
+        "projectName": "T-Zaika.Business",
+        "projectPath": "E:\\AppNetDev\\T-ZaikaBe\\T-ZaikaBe\\T-Zaika.Business\\T-Zaika.Business.csproj",
+        "packagesPath": "C:\\Users\\Hoffman\\.nuget\\packages\\",
+        "outputPath": "E:\\AppNetDev\\T-ZaikaBe\\T-ZaikaBe\\T-Zaika.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hoffman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\AppNetDev\\T-ZaikaBe\\T-ZaikaBe\\T-Zaika.Domain\\T-Zaika.Domain.csproj": {
+                "projectPath": "E:\\AppNetDev\\T-ZaikaBe\\T-ZaikaBe\\T-Zaika.Domain\\T-Zaika.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\AppNetDev\\T-ZaikaBe\\T-ZaikaBe\\T-Zaika.Domain\\T-Zaika.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\AppNetDev\\T-ZaikaBe\\T-ZaikaBe\\T-Zaika.Domain\\T-Zaika.Domain.csproj",
+        "projectName": "T-Zaika.Domain",
+        "projectPath": "E:\\AppNetDev\\T-ZaikaBe\\T-ZaikaBe\\T-Zaika.Domain\\T-Zaika.Domain.csproj",
+        "packagesPath": "C:\\Users\\Hoffman\\.nuget\\packages\\",
+        "outputPath": "E:\\AppNetDev\\T-ZaikaBe\\T-ZaikaBe\\T-Zaika.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hoffman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

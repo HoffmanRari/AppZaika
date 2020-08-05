@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>T_Zaika.Business</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="BusinessModelValidators\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\T-Zaika.Domain\T-Zaika.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

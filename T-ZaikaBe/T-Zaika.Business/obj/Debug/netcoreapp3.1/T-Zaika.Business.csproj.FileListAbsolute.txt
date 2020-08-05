@@ -1,0 +1,12 @@
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Business\bin\Debug\netcoreapp3.1\T-Zaika.Business.deps.json
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Business\bin\Debug\netcoreapp3.1\T-Zaika.Business.dll
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Business\bin\Debug\netcoreapp3.1\T-Zaika.Business.pdb
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Business\bin\Debug\netcoreapp3.1\T-Zaika.Domain.dll
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Business\bin\Debug\netcoreapp3.1\T-Zaika.Domain.pdb
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Business\obj\Debug\netcoreapp3.1\T-Zaika.Business.csprojAssemblyReference.cache
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Business\obj\Debug\netcoreapp3.1\T-Zaika.Business.AssemblyInfoInputs.cache
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Business\obj\Debug\netcoreapp3.1\T-Zaika.Business.AssemblyInfo.cs
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Business\obj\Debug\netcoreapp3.1\T-Zaika.Business.csproj.CoreCompileInputs.cache
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Business\obj\Debug\netcoreapp3.1\T-Zaika.Business.csproj.CopyComplete
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Business\obj\Debug\netcoreapp3.1\T-Zaika.Business.dll
+E:\AppNetDev\T-ZaikaBe\T-ZaikaBe\T-Zaika.Business\obj\Debug\netcoreapp3.1\T-Zaika.Business.pdb
